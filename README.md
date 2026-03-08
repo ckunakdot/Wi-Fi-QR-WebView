@@ -6,6 +6,7 @@ The Wi-Fi QR WebView driver displays a QR code image on Control4 touchscreens, m
 This driver is ideal for displaying Wi-Fi network credentials, guest access information, or any other QR code content. Simply replace the bundled QR code image with your own.
 
 Features
+
 •	Built-in Web Server: Runs on port 1111 to serve the QR code display page
 •	Burn-in Prevention: Content automatically moves every 60 seconds to prevent screen burn-in
 •	Customizable Styling: Configure colors for background, title text, and QR code container
