@@ -36,10 +36,18 @@ This driver is ideal for displaying **Wi-Fi network credentials, guest access in
 
 ---
 
-## Setup
+## Customizing the QR Code
 
-1. Install the driver in **Control4 Composer Pro**.
-2. Navigate to the driver properties.
-3. Replace the QR code image inside:
+1. Rename `Wifi_QR_WebView.c4z` to `Wifi_QR_WebView.zip`
+2. Extract the ZIP file
+3. Navigate to the folder: www/images/
 
-<img width="1283" height="832" alt="image" src="https://github.com/user-attachments/assets/5042dee1-0363-497e-a907-382c7b2fbc94" />
+4. Replace `qrcode.png` with your own QR code image
+5. Select all files and create a new ZIP archive
+6. Rename the ZIP file back to the `.c4z` extension
+
+---
+
+## Example Display
+
+![Wi-Fi QR WebView](https://github.com/user-attachments/assets/5042dee1-0363-497e-a907-382c7b2fbc94)
