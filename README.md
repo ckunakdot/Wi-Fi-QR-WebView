@@ -1,5 +1,8 @@
 # Wi-Fi QR WebView
 
+<a href="https://www.buymeacoffee.com/ckunakdot" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+
+
 Control4 Wi-Fi QR WebView Driver
 
 The **Wi-Fi QR WebView** driver displays a QR code image on Control4 touchscreens, mobile apps, and other Navigators. It includes a built-in web server that serves a clean, styled HTML page designed to match the Control4 interface aesthetic.
